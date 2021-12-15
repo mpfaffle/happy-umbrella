@@ -1,0 +1,25 @@
+---
+title: "Works Cited"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    collapsed: false
+    df_print: kable
+---
+
+
+
+
+     Ammerman, Abbey. “State Voter Guides.” Aug. 23, 2001. https://www.cga.ct.gov/2001/rpt/2001-R-0545.htm
+
+     Bachner, Jennifer and Benjamin Ginsburg. “JHU Survey: Americans Don’t Know Much About State Government.” Press Release, JHU Office of Communications. 2018. https://releases.jhu.edu/2018/12/11/jhu-survey-americans-dont-know-much-about-state-government/ 
+
+     “Features of Official Voter Guides, Accessibility by State.” Ballotpedia. Updated Nov. 2021. https://ballotpedia.org/Features_of_official_voter_guides,_compared_by_state#Voter_guide_accessibility_survey 
+
+     “Features of Official Voter Guides, Compared by State.” Ballotpedia. Updated Nov. 2021. https://ballotpedia.org/Features_of_official_voter_guides,_compared_by_state#Comparison_of_voter_guides
+
+    “Official Voter Guides to 2020 Statewide Ballot Measures.” Initiative & Referendum Institute. http://www.iandrinstitute.org/data.cfm  
+
+
